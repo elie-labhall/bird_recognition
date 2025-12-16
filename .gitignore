@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+birds.mp4
+birds2.mp4
+birds3.mp4
